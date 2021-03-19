@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samthatcode
 - 👀 I’m interested in ...From End Web Development
-- 🌱 I’m currently learning ...HTML, CSS AMD JAVASCRIPT
+- 🌱 I’m currently learning ...HTML, CSS AND JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@samthatcode on Twitter
 
