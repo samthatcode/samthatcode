@@ -7,19 +7,22 @@ I am a passionate software engineer with a knack for teaching, driven by a curio
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm a member of the developer community, actively contributing to platforms like [Medium](https://medium.com/), [FreeCodeCamp](https://www.freecodecamp.org/), and [DEVcommunity](https://dev.to/).
+- 🌐 Proud contributor to the [Hackernoon Blogging Fellowship](https://hackernoon.com/), dedicated to sharing valuable content with the tech community.
+- ✍️ Passionate about teaching and sharing knowledge, I use my platform [VersionControlDev](https://version-control-dev.onrender.com) to showcase projects and inspire others in the field of software engineering.
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+- My stack includes proficiency in HTML, CSS, JavaScript, React, Vue.js, MongoDB, Next.js, Node.js, Express, Laravel, Inertial.js, and PHP.
+
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,vue,mongodb,nextjs,nodejs,express,laravel,php)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+  - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux, Vue, NextJs, Nodejs for dynamic front-end & backend experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS, MaterialUi, ChakraUi, ReactBootstrap to create modern and responsive user interfaces.
