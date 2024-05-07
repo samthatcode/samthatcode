@@ -17,7 +17,7 @@ I am a passionate software engineer with a knack for teaching, driven by a curio
 
 - My stack includes proficiency in HTML, CSS, JavaScript, React, Vue.js, MongoDB, Next.js, Node.js, Express, Laravel, Inertial.js, and PHP.
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,vue,mongodb,nextjs,nodejs,express,laravel,php)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,mongodb,nextjs,nodejs,express)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
@@ -37,7 +37,7 @@ I am a passionate software engineer with a knack for teaching, driven by a curio
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter(X)](https://twitter.com/samthatcode)
-- - Connect with me on [LinkedIn](https://linkedin.com/samthatcode)
+- Connect with me on [LinkedIn](https://linkedin.com/samthatcode)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
