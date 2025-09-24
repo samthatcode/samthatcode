@@ -17,7 +17,7 @@ I am a passionate software engineer with a knack for teaching, driven by a curio
 
 - My stack includes proficiency in HTML, CSS, JavaScript, React, Vue.js, MongoDB, Next.js, Node.js, Express, Laravel, Inertial.js, and PHP.
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,php,laravel,mysql,postgresql,mongodb,nextjs,nodejs,express)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss,react,vue,php,laravel,mysql,postgresql,mongodb,nextjs,nodejs,express)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
